@@ -17,7 +17,11 @@ ___
 - [x] [SQL](https://github.com/Lycurgus1/comm_2/tree/master/SQL%20Week)
 - [x] [Python](https://github.com/Lycurgus1/python)
 - [x] [Project Week](https://github.com/Lycurgus1/Airport_Project)
-
-
+- [x] [File Interaction](https://github.com/Lycurgus1/File_handling)
+- [x] [Test Driven Development](https://github.com/Lycurgus1/python_tdd)
+- [x] [APIs with Python](https://github.com/Lycurgus1/python_apis)
+- [x] [OOP Python](https://github.com/Lycurgus1/OOP_Exercises)
+- [x] [Python databases](https://github.com/Lycurgus1/Python_database)
+- [x] [Python Flask](https://github.com/Lycurgus1/Python_flask)
 
 ---
