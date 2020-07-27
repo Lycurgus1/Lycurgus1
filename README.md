@@ -23,5 +23,6 @@ ___
 - [x] [OOP Python](https://github.com/Lycurgus1/OOP_Exercises)
 - [x] [Python databases](https://github.com/Lycurgus1/Python_database)
 - [x] [Python Flask](https://github.com/Lycurgus1/Python_flask)
+- [ ] [DevOps Theory](https://github.com/Lycurgus1/DevsOps_Theory)
 
 ---
