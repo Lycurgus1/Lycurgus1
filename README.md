@@ -1,4 +1,4 @@
-# DevsOps Training at Sparta Global
+# DevOps Training at Sparta Global
 ####    **Max Palmer**,
 #####   Trainee DevOps Engineer,
 #####   [mpalmer@spartaglobal.com](mailto:mpalmer@spartaglobal.com)  
@@ -24,6 +24,8 @@ ___
 - [x] [Python databases](https://github.com/Lycurgus1/Python_database)
 - [x] [Python Flask](https://github.com/Lycurgus1/Python_flask)
 - [x] [DevOps Theory](https://github.com/Lycurgus1/DevsOps_Theory)
-- [ ] [Virtual machines](https://github.com/Lycurgus1/vagrant_starter_server)
+- [x] [Virtual machines](https://github.com/Lycurgus1/vagrant_starter_server)
+- [x] [Multiple virtual machines](https://github.com/Lycurgus1/vagrant_multi_serverv2)
+- [ ] [Continuous integration](https://github.com/Lycurgus1/DevsOps)
 
 ---
