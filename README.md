@@ -26,6 +26,6 @@ ___
 - [x] [DevOps Theory](https://github.com/Lycurgus1/DevsOps_Theory)
 - [x] [Virtual machines](https://github.com/Lycurgus1/vagrant_starter_server)
 - [x] [Multiple virtual machines](https://github.com/Lycurgus1/vagrant_multi_serverv2)
-- [ ] [Continuous integration](https://github.com/Lycurgus1/DevsOps)
+- [ ] [Continuous integration](https://github.com/Lycurgus1/ci-start-code)
 
 ---
