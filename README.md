@@ -25,7 +25,7 @@ ___
 - [x] [Python Flask](https://github.com/Lycurgus1/Python_flask)
 - [x] [DevOps Theory](https://github.com/Lycurgus1/DevsOps_Theory)
 - [x] [Virtual machines](https://github.com/Lycurgus1/vagrant_starter_server)
-- [x] [Multiple virtual machines](https://github.com/Lycurgus1/vagrant_multi_serverv2)
+- [x] [Reverse Proxy with NGINX](https://github.com/Lycurgus1/VM_Reverse_Proxy_Automation)
 - [ ] [Continuous integration](https://github.com/Lycurgus1/ci-start-code)
 
 ---
