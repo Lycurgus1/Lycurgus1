@@ -26,6 +26,7 @@ ___
 - [x] [DevOps Theory](https://github.com/Lycurgus1/DevsOps_Theory)
 - [x] [Virtual machines](https://github.com/Lycurgus1/vagrant_starter_server)
 - [x] [Reverse Proxy with NGINX](https://github.com/Lycurgus1/VM_Reverse_Proxy_Automation)
-- [ ] [Continuous integration](https://github.com/Lycurgus1/ci-start-code)
+- [x] [Continuous integration](https://github.com/Lycurgus1/ci-start-code)
+- [ ] [Amazon web services](https://github.com/Lycurgus1/AWS_Start_code)
 
----
+--
