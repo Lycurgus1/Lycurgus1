@@ -27,6 +27,7 @@ ___
 - [x] [Virtual machines](https://github.com/Lycurgus1/vagrant_starter_server)
 - [x] [Reverse Proxy with NGINX](https://github.com/Lycurgus1/VM_Reverse_Proxy_Automation)
 - [x] [Continuous integration](https://github.com/Lycurgus1/ci-start-code)
+- [x] [Jenkins](https://github.com/Lycurgus1/CI_Web_App)
 - [ ] [Amazon web services](https://github.com/Lycurgus1/AWS_Start_code)
 
 --
