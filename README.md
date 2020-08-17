@@ -28,6 +28,8 @@ ___
 - [x] [Reverse Proxy with NGINX](https://github.com/Lycurgus1/VM_Reverse_Proxy_Automation)
 - [x] [Continuous integration](https://github.com/Lycurgus1/ci-start-code)
 - [x] [Jenkins](https://github.com/Lycurgus1/CI_Web_App)
-- [ ] [Amazon web services](https://github.com/Lycurgus1/AWS_Start_code)
+- [x] [Continuous integration, Continuous deployment pipeline](https://github.com/Lycurgus1/NodeJSAppPipeline)
+- [x] [AWS VPC Creation](https://github.com/Lycurgus1/networking)
+- [ ] [Ansible](https://github.com/Lycurgus1)
 
 --
