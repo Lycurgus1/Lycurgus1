@@ -31,7 +31,10 @@ ___
 - [x] [Continuous integration](https://github.com/Lycurgus1/ci-start-code)
 - [x] [Jenkins](https://github.com/Lycurgus1/CI_Web_App)
 - [x] [Continuous integration, Continuous deployment pipeline](https://github.com/Lycurgus1/NodeJSAppPipeline)
-- [x] [AWS VPC Creation](https://github.com/Lycurgus1/networking)
-- [ ] [Ansible](https://github.com/Lycurgus1)
+- [x] [AWS: VPC Creation](https://github.com/Lycurgus1/networking)
+- [x] [Ansible](https://github.com/Lycurgus1/Ansible)
+- [x] [Ansible with AWS](https://github.com/Lycurgus1/Ansible_with_AWS)
+- [x] [Terraform](https://github.com/Lycurgus1/Terraform)
+- [x] [Docker](https://github.com/Lycurgus1/Docker)
 
 --
